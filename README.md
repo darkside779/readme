@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a passionate developer with experience in building <br>full-stack web applications, mobile apps, and data analysis <br>solutions. My skill set spans across multiple <br>programming languages and frameworks including Python, <br>Django, Flask, PHP, React, and Flutter. Currently, <br>I'm also expanding my knowledge in cybersecurity, <br>focusing on securing applications and data.<br>
+I'm a dedicated full-stack developer with a passion for creating innovative digital solutions. My expertise spans across multiple programming languages and frameworks, allowing me to build comprehensive applications from frontend interfaces to backend systems.<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/mustafa-aldridriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mustafa-aldridriy" height="30" width="40" /></a>
